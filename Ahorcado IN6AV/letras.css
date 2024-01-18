@@ -1,0 +1,20 @@
+button{
+    background-color: black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    border: 35px;
+    padding: 25px 20px 15px 20px;
+    font-size: 25px;
+    color: white;
+    width: 70px;
+    height: 70px;
+   
+}
+
+button:hover{
+    color: rgb(77, 165, 42);
+}
+
+#letras{
+    margin-top: 100px;
+ }
